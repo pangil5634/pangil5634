@@ -39,5 +39,11 @@
     </tr>
 </table>
 
+<table><tr><td valign="top" width="54%">
+<img src="https://github-readme-stats.vercel.app/api?username=oksk6681&show_icons=true&theme=react&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="46%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oksk6681&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
+</td></tr></table>
+
 
 
