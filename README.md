@@ -1,8 +1,10 @@
 <h2>Why is a day only 24 hours?</h2>
 <p>안녕하세요 웹과 앱에 관심이 많은 대학생 김광일이라고 합니다!</p>
-    
+<br>
+
 <h4>👨‍👨‍👦‍👦 TEAM 👨‍👨‍👦‍👦</h4>
-<p><b>CRA</b> - <a href = "https://cra16.github.io" style = "color : rgb(76, 161, 195)"> Computer Research Association</a> ( 2020.04.05~ )</p>
+<li><p><b>CRA</b> - <a href = "https://cra16.github.io" style = "color : rgb(76, 161, 195)"> Computer Research Association</a> ( 2020.04.05~ )</p></li>
+<br>
     
 <h4>🚗 Timeline 🚗</h4>
 <u>
@@ -14,6 +16,7 @@
     <li>2022.10.27 병장 만기 전역 🪖</li>
     <li>2023.02.27 군복학 🏫</li>
 </u>
+<br>
 <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,22 +31,18 @@
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=oksk6681) -->
 
 
-<table border = "1 solid" bordercolor = "skyblue" align = "center">
+<table border = "1 solid" bordercolor = "skyblue" align = "left">
     <tr>
         <td>
-            <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=oksk6681&layout=compact&theme=tokyonight" align = "left" style = "width : 100%"/>
+            <img src = "https://github-readme-stats.vercel.app/api?username=oksk6681&show_icons=true&theme=radical" style = "width : 100%"/>
         </td>
         <td>
-            <img src = "[https://github-readme-stats.vercel.app/api/top-langs/?username=oksk6681&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=oksk6681&show_icons=true&theme=radical)" align = "left" style = "width : 100%"/>
+            <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=oksk6681&layout=compact&theme=tokyonight" style = "width : 100%"/>
         </td>
     </tr>
 </table>
 
-<table><tr><td valign="top" width="54%">
-<img src="https://github-readme-stats.vercel.app/api?username=oksk6681&show_icons=true&theme=react&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="46%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oksk6681&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
-</td></tr></table>
+
 
 
 
