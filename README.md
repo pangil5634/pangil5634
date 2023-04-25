@@ -10,9 +10,9 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-FF9900?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<!--![Dart](https://img.shields.io/badge/-Dart-2457BD?style=for-the-badge&logo=Dart&logoColor=white)-->
+![Dart](https://img.shields.io/badge/-Dart-2457BD?style=for-the-badge&logo=Dart&logoColor=white)
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=oksk6681)-->
 
-## ![mazandi profile](http://mazandi.herokuapp.com/api?handle=oksk6681)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oksk6681&layout=compact&theme=tokyonight) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksk6681&show_icons=true&theme=radical)
