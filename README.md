@@ -7,4 +7,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-0054FF?style=for-the-badge&logo=C&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-2457BD?style=for-the-badge&logo=Python&logoColor=white)
+<img src="https://img.shields.io/badge/cplusplus-#00599C?style=flat&logo=C++&logoColor=white"/>
 <!--![Dart](https://img.shields.io/badge/-Dart-2457BD?style=for-the-badge&logo=Dart&logoColor=white)-->
