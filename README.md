@@ -28,16 +28,16 @@
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=oksk6681) -->
 
 
-    <table border = "1 solid" bordercolor = "skyblue" align = "center">
-        <tr>
-            <td>
-                ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oksk6681&layout=compact&theme=tokyonight) 
-            </td>
-            <td>
-                ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksk6681&show_icons=true&theme=radical)
-            </td>
-        </tr>
-    </table>
+<table border = "1 solid" bordercolor = "skyblue" align = "center">
+    <tr>
+        <td>
+            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oksk6681&layout=compact&theme=tokyonight) 
+        </td>
+        <td>
+            ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksk6681&show_icons=true&theme=radical)
+        </td>
+    </tr>
+</table>
 
 
 
