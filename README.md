@@ -8,6 +8,6 @@
 ![C](https://img.shields.io/badge/-C-0054FF?style=for-the-badge&logo=C&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-2457BD?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-#FFFFFF?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <!--![Dart](https://img.shields.io/badge/-Dart-2457BD?style=for-the-badge&logo=Dart&logoColor=white)-->
