@@ -3,7 +3,8 @@
 <br>
 
 <h4>👨‍👨‍👦‍👦 TEAM 👨‍👨‍👦‍👦</h4>
-<li><p><b>CRA</b> - <a href = "https://cra16.github.io" style = "color : rgb(76, 161, 195)"> Computer Research Association</a> ( 2020.04.05~ )</p></li>
+<li><p><b>CRA</b> - <a href = "https://cra16.github.io" style = "color : rgb(76, 161, 195)"> Computer Research Association</a> ( 2020.04.05 ~ )</p></li>
+<li><p><b>비타500</b> - <a href = "https://www.notion.so/500-ac808876526a4b4c97376b77aa3d11e1?pvs=4" style = "color : rgb(76, 161, 195)"> 2023 비즈플로우 Team </a> ( 2023.03.21 ~ 2023.07.XX)</p></li>
 <br>
     
 <h4>🚗 Timeline 🚗</h4>
