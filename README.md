@@ -18,7 +18,9 @@
     <li>2023.02.27 군복학 🏫</li>
 </u>
 <br>
+
 <br>
+<h3>Language Stats</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
@@ -28,9 +30,25 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-FF9900?style=for-the-badge&logo=openjdk&logoColor=white)
 
+<br>
+<h3>Github Stats</h3>
+
+![pangil5634's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangil5634&show_icons=true&theme=radical)
+
+<br>
+<h3>Using Language</h3>
+
+![pabgil5634's Using Language](https://github-readme-stats.vercel.app/api/top-langs/?username=pangil5634&layout=compact&theme=tokyonight)
+
+<br>
+<h3>Solved.ac Profile</h3>
+
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oksk6681)]
+
 <!-- ![Dart](https://img.shields.io/badge/-Dart-2457BD?style=for-the-badge&logo=Dart&logoColor=white) -->
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pangil5634) -->
 
+<!--
 <table border = "1 solid" bordercolor = "skyblue" align = "left">
     <tr>
         <td>
@@ -41,6 +59,6 @@
         </td>
     </tr>
 </table>
-
+-->
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
