@@ -8,8 +8,8 @@
 <br>
 
 <h4>🏆 Awards 🏆</h4>
-<li><p><b>2020 C Contest - <span>장려상🥉</span></b></p></li>
-<li><p><b>2023 bizflow M - pre contest - <span>우수상🥈</span></b></p></li>
+<li><p><b>2020 C Contest - <span><a href = "https://github.com/pangil5634/pangil5634/wiki/%5BAwards%5D-2020-C-Contest">장려상🥉</a></span></b></p></li>
+<li><p><b>2023 bizflow M - pre contest - <span><a href = "https://github.com/pangil5634/pangil5634/wiki/%5BAwards%5D-bizflow-M-%E2%80%90-pre-contest">우수상🥈</a></span></b></p></li>
 <li><p><b>2023 bizflow M contest - <span>우수상🥈</span></b></p></li>
 <br>
     
