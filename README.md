@@ -39,7 +39,7 @@
 ![Assemblyscript](https://img.shields.io/badge/-assemblyscript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 <br>
-<h3>Frameworkd / Library</h3>
+<h3>Framework / Library</h3>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -58,7 +58,7 @@
 <br>
 <h3>Solved.ac Profile</h3>
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oksk6681)]
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oksk6681)
 
 <!-- ![Dart](https://img.shields.io/badge/-Dart-2457BD?style=for-the-badge&logo=Dart&logoColor=white) -->
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pangil5634) -->
