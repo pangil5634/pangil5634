@@ -5,7 +5,7 @@
 <h4>👨‍👨‍👦‍👦 TEAM 👨‍👨‍👦‍👦</h4>
 <li><p><b>CRA</b> - <a href = "https://cra16.github.io" style = "color : rgb(76, 161, 195)"> Computer Research Association</a> ( 2020.04.05 ~ )</p></li>
 <li><p><b>비타500</b> - <a href = "https://www.notion.so/500-ac808876526a4b4c97376b77aa3d11e1?pvs=4" style = "color : rgb(76, 161, 195)"> 2023 비즈플로우 Team </a> ( 2023.03.21 ~ 2023.08.18)</p></li>
-<li><p><b>PARD 2nd</b> - <a href = "https://github.com/2nd-PARD-WEB-PART"></p>웹파트 개발 기록</li>
+<li><p><b>PARD 2nd</b> - <a href = "https://github.com/2nd-PARD-WEB-PART/KimKwangil">웹파트 개발 기록</a>( 2023.09.28 ~ 202X.XX.XX)</p></li>
 <br>
 
 <h4>🏆 Awards 🏆</h4>
@@ -33,9 +33,17 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-0054FF?style=for-the-badge&logo=C&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-2457BD?style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-FF9900?style=for-the-badge&logo=openjdk&logoColor=white)
+![Assemblyscript](https://img.shields.io/badge/-assemblyscript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+<br>
+<h3>Frameworkd / Library</h3>
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 <br>
 <h3>Github Stats</h3>
