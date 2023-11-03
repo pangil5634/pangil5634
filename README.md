@@ -1,5 +1,7 @@
 <h2>Why is a day only 24 hours?</h2>
 <p>안녕하세요 웹과 앱에 관심이 많은 대학생 김광일이라고 합니다!</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=80ed99&size=20&lines=Hello,+I+will+be+famous+developer!;I+really+like+programming~!;So+i+want+to+develop+everyday!!;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <br>
 
 <h4>👨‍👨‍👦‍👦 TEAM 👨‍👨‍👦‍👦</h4>
@@ -59,21 +61,3 @@
 <h3>Solved.ac Profile</h3>
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oksk6681)
-
-<!-- ![Dart](https://img.shields.io/badge/-Dart-2457BD?style=for-the-badge&logo=Dart&logoColor=white) -->
-<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pangil5634) -->
-
-<!--
-<table border = "1 solid" bordercolor = "skyblue" align = "left">
-    <tr>
-        <td>
-            <img src = "https://github-readme-stats.vercel.app/api?username=pangil5634&show_icons=true&theme=radical" style = "width : 100%"/>
-        </td>
-        <td>
-            <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pangil5634&layout=compact&theme=tokyonight" style = "width : 100%"/>
-        </td>
-    </tr>
-</table>
--->
-
-![](./profile-3d-contrib/profile-south-season-animate.svg)
