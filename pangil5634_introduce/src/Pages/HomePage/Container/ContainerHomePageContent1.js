@@ -23,11 +23,16 @@ const ContainerHomePageContent1 = styled.div`
     display: flex;
     justify-content: center;
 `
-const ContainerMainArea = styled.div`
+export const ContainerMainArea = styled.div`
     width : 1000px;
     height : inherit;
 
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
     /* background-color: #ffffff; */
+
 `
 
 const ContainerTitle = styled.div`

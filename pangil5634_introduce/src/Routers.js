@@ -5,8 +5,8 @@ import MyPage from "./Pages/MyPage/MyPage";
 function Routers() {
     return (
         <Routes>
-            <Route path="/" index="index" element={<HomePage />} />
-            <Route path = "/mypage" element={<MyPage/>}/>
+            <Route path="/" index="index" element={<HomePage />}/>
+            <Route path="/mypage" element={<MyPage/>}/>
         </Routes>
     );
 }
