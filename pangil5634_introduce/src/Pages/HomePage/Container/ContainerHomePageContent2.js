@@ -8,6 +8,9 @@ function HomePageContent1() {
                 <WrapperCard>
 
                 </WrapperCard>
+                <WrapperCard style={{marginTop : "100px"}}>
+                
+                </WrapperCard>
             </ContainerMainArea>
         </ContainerHomePageContent1>
     );
