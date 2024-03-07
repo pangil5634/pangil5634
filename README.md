@@ -10,7 +10,7 @@
 <li><p><b>PARD 2nd</b> - <a href = "https://github.com/2nd-PARD-WEB-PART/KimKwangil">웹파트 개발 기록</a> ( 2023.09.28 ~ 2023.11.11)</p></li>
 <li><p><b>PARD 2nd</b> - <a href = "https://github.com/2nd-PARD-WEB-PART/PARD-2th-Memorial">숏커톤 - Memorial</a> ( 2023.11.24 ~ 2023.11.25)</p></li>
 <li><p><b>PARD 2nd</b> - <a href = "https://github.com/Club-PARD/Bingo_WEB">롱커톤 - BINGO</a> ( 2023.12.12 ~ )</p></li>
-<li><p><b>PARD 3nd</b> - <a href = "https://github.com/Club-PARD/UJaCha_WEB">운영진 롱커톤 - TUNE</a> ( 2024.01.24 ~ )</p></li>
+<li><p><b>PARD 3nd</b> - <a href = "https://github.com/Club-PARD/UJaCha_WEB">운영진 롱커톤 - TUNE</a> ( 2024.01.24 ~ 2024.03.06)</p></li>
 
 <br>
 
