@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { ContainerBase } from "../../Components/Layout/ContainerBase";
 
 function MyPage() {
     return (
@@ -8,8 +9,9 @@ function MyPage() {
     );
 }
 
-const ContainerMyPage = styled.div`
-    color : ${({ theme }) => theme.colors.peach_100 || 'skyblue'};
+const ContainerMyPage = styled(ContainerBase)`
+    color : ${({ theme }) => theme.colors.peach_100};
+
 `;
 
 export default MyPage;
