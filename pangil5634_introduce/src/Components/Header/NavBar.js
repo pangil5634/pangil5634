@@ -2,12 +2,24 @@ import styled from "styled-components";
 import { ContainerBase } from "../Layout/ContainerBase";
 import { MyLink } from "../Component/MyLink";
 import MediaQuery from "react-responsive";
+import { useState } from "react";
+import { MenuDropDown } from "./MenuDropDown";
 
 function NavBar() {
+
+    const [isMenuOpen, setIsMenuOpen] = useState(false);
+
     return (
         <ContainerNavBar>
             <MediaQuery maxWidth={550}>
-                <MenuItem>Menu</MenuItem>
+                {
+                    isMenuOpen == false ?
+                        <MenuList>
+                            <MenuItem onClick={() => (setIsMenuOpen(!isMenuOpen))}>MENU</MenuItem>
+                        </MenuList>
+                        :
+                        <MenuDropDown isMenuOpen={isMenuOpen} setIsMenuOpen={setIsMenuOpen} />
+                }
             </MediaQuery>
             <MediaQuery minWidth={550}>
                 <MenuList>
@@ -21,9 +33,8 @@ function NavBar() {
 }
 
 
-const ContainerNavBar = styled(ContainerBase)`
-    height : 70px;
-
+const ContainerNavBar = styled.div`
+    height : auto;
     background-color: ${({ theme }) => theme.colors.black_100};
     color : ${({ theme }) => theme.colors.white_100};
 
@@ -35,13 +46,11 @@ const ContainerNavBar = styled(ContainerBase)`
 
 const MenuList = styled.div`
     width: auto;
-    height : 100%;
+    height : 70px;
 
     display: flex;
     justify-content: space-around;
     align-items: center;
-
-    margin-right: 50px;
 `;
 
 const MenuItem = styled(MyLink)`
