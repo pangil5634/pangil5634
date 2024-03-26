@@ -10,7 +10,8 @@ function HobbyPage() {
 }
 
 const ContainerHobbyPage = styled(ContainerBase)`
-
+    height : 1000px;
+    padding : 0px 300px;
 `;
 
 export default HobbyPage;

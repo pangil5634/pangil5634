@@ -11,12 +11,7 @@ function HomePage() {
 }
 
 const ContainerHomePage = styled(ContainerBase)`
-    background-color: ${({ theme }) => theme.colors.black_100};
-
     height : 1000px;
-
-    border-top: 1px solid white;
-
     padding : 0px 300px;
 `;
 
