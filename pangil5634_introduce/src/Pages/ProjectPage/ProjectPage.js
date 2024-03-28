@@ -9,9 +9,8 @@ function ProjectPage() {
     );
 }
 
-const ContainerProjectPage = styled(ContainerBase)`
+const ContainerProjectPage = styled.div`
     height : 1000px;
-    padding : 0px 300px;
 `;
 
 export default ProjectPage;

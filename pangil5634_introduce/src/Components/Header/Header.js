@@ -7,12 +7,17 @@ function Header() {
     return (
         <ContainerHeader>
             <NavBar />
-            <Outlet/>
+            <ContainerOutlet>
+                <Outlet/>
+            </ContainerOutlet>
         </ContainerHeader>
     );
 }
 
-const ContainerHeader = styled(ContainerBase)`
+const ContainerHeader = styled.div`
 
+`
+
+const ContainerOutlet = styled(ContainerBase)`
 `
 export default Header;

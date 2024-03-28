@@ -41,6 +41,8 @@ const ContainerNavBar = styled.div`
     display: flex;
     justify-content: end;
     align-items: center;
+    border-bottom: 1px solid white;
+    padding : 0px 10%;
 
 `;
 
@@ -62,7 +64,7 @@ const MenuItem = styled(MyLink)`
     line-height: normal;
 
     box-sizing: border-box;
-    padding : 0px 20px;
+    padding-left : 30px;
 
     &:hover{
         color : ${({theme}) => theme.colors.blueDragon_100};
