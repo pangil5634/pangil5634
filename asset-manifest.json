@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pangil5634/static/css/main.23caf572.css",
-    "main.js": "/pangil5634/static/js/main.444330dd.js",
+    "main.js": "/pangil5634/static/js/main.935a0a47.js",
     "static/js/453.96e076d0.chunk.js": "/pangil5634/static/js/453.96e076d0.chunk.js",
     "index.html": "/pangil5634/index.html",
     "main.23caf572.css.map": "/pangil5634/static/css/main.23caf572.css.map",
-    "main.444330dd.js.map": "/pangil5634/static/js/main.444330dd.js.map",
+    "main.935a0a47.js.map": "/pangil5634/static/js/main.935a0a47.js.map",
     "453.96e076d0.chunk.js.map": "/pangil5634/static/js/453.96e076d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23caf572.css",
-    "static/js/main.444330dd.js"
+    "static/js/main.935a0a47.js"
   ]
 }
