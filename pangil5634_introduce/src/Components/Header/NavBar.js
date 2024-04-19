@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { ContainerBase } from "../Layout/ContainerBase";
 import { MyLink } from "../Component/MyLink";
 import MediaQuery from "react-responsive";
 import { useState } from "react";
@@ -21,7 +20,7 @@ function NavBar() {
                         <MenuDropDown isMenuOpen={isMenuOpen} setIsMenuOpen={setIsMenuOpen} />
                 }
             </MediaQuery>
-            <MediaQuery minWidth={550}>
+            <MediaQuery minWidth={551}>
                 <MenuList>
                     <MenuItem to="/">Home</MenuItem>
                     <MenuItem to="/project">Project</MenuItem>
