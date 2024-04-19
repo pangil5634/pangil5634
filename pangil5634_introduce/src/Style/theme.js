@@ -12,4 +12,11 @@ export const theme = {
     gray_100: "#BFCFE7",
     pink_50:"#F8EDFF"
   },
+  fonts: {
+    intro: {
+      fontSize: "50px",
+      fontWeight: "200",
+      lineHeight : "70px"
+    },
+  }
 };
