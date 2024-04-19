@@ -5,5 +5,6 @@ export const ContainerBase = styled.div`
     color : ${({ theme }) => theme.colors.white_100};
     background-color: ${({ theme }) => theme.colors.black_100};
     padding : 0px 100px;
+    padding-top: 50px;
     box-sizing: border-box;
 `
