@@ -1,5 +1,5 @@
 <h2>Why is a day only 24 hours?</h2>
-<p>안녕하세요 웹과 앱에 관심이 많은 대학생 김광일이라고 합니다!</p>
+<p>안녕하세요 웹 개발 관심이 많은 대학생 김광일이라고 합니다!</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=80ed99&size=20&lines=Hello,+I+will+be+famous+developer!;I+really+like+programming~!;So+i+want+to+develop+everyday!!;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <br>
@@ -19,6 +19,16 @@
 <li><p><b>2023 bizflow M - pre contest - <span><a href = "https://github.com/pangil5634/pangil5634/wiki/%5BAwards%5D-bizflow-M-%E2%80%90-pre-contest">우수상🥈</a></span></b></p></li>
 <li><p><b>2023 bizflow M contest - <span><a href = "https://private-user-images.githubusercontent.com/54162245/302922643-851d0268-ae1d-47e7-9905-349f86098e06.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyOTc0MDUsIm5iZiI6MTcwNzI5NzEwNSwicGF0aCI6Ii81NDE2MjI0NS8zMDI5MjI2NDMtODUxZDAyNjgtYWUxZC00N2U3LTk5MDUtMzQ5Zjg2MDk4ZTA2LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwN1QwOTExNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMDk3YTI2OGZlZjliOWI2ZmMzNmIzYWJlMjk3ODc2ZDU4MDAxNjBkOGZlMzhkMjk4YWI5ODQ1NTAyODMxZDExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.keupw5yJHIIF1rWDG0ePVz2ePTSNTOtjms58Lxj1g_M">우수상</a>🥈</span></b></p></li>
 <li><p><b>PARD 2nd 롱커톤 - <span><a href = "https://private-user-images.githubusercontent.com/54162245/302921160-c46836c4-e134-4203-b0fe-214d852c3ff4.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyOTcxNzksIm5iZiI6MTcwNzI5Njg3OSwicGF0aCI6Ii81NDE2MjI0NS8zMDI5MjExNjAtYzQ2ODM2YzQtZTEzNC00MjAzLWIwZmUtMjE0ZDg1MmMzZmY0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwN1QwOTA3NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01N2I0OWVhNmMxZDYyNTdiMGNiZmQyODYwOGZkMmM4NmEwMjc1ZjgwOWM2NzQ2NzdkZTFjNTRiM2RiZWMzMWFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.rgjfNmvuiaw74zHRGJBxB-RA-1Lv1BtlfvXumQz8nMg">대상🥇</a></span></b></p></li>
+<br>
+
+<h4>🌐 Projects 🌐</h4>
+<ul>
+    <li><a href = "https://hancamsa.netlify.app">한캠사</a> - 한동대 캠퍼스 사이트</li>
+    <li>버르장례식</li>
+    <li>Bingo</li>
+    <li>Tune</li>
+    <li>Essence Official Site</li>
+</ul>
 <br>
     
 <h4>🚗 Timeline 🚗</h4>
