@@ -7,27 +7,27 @@
 <h4>👨‍👨‍👦‍👦 TEAM 👨‍👨‍👦‍👦</h4>
 <li><p><b>CRA</b> - <a href = "https://cra16.github.io" style = "color : rgb(76, 161, 195)"> Computer Research Association</a> ( 2020.04.05 ~ )</p></li>
 <li><p><b>비타500</b> - <a href = "https://www.notion.so/500-ac808876526a4b4c97376b77aa3d11e1?pvs=4" style = "color : rgb(76, 161, 195)"> 2023 비즈플로우 Team </a> ( 2023.03.21 ~ 2023.08.18)</p></li>
-<li><p><b>PARD 2nd</b> - <a href = "https://github.com/2nd-PARD-WEB-PART/KimKwangil">웹파트 개발 기록</a> ( 2023.09.28 ~ 2023.11.11)</p></li>
-<li><p><b>PARD 2nd</b> - <a href = "https://github.com/2nd-PARD-WEB-PART/PARD-2th-Memorial">숏커톤 - Memorial</a> ( 2023.11.24 ~ 2023.11.25)</p></li>
-<li><p><b>PARD 2nd</b> - <a href = "https://github.com/Club-PARD/Bingo_WEB">롱커톤 - BINGO</a> ( 2023.12.12 ~ )</p></li>
-<li><p><b>PARD 3nd</b> - <a href = "https://github.com/Club-PARD/UJaCha_WEB">운영진 롱커톤 - TUNE</a> ( 2024.01.24 ~ 2024.03.06)</p></li>
+<li><p><b>PARD 2nd</b> - <a href = "https://github.com/2nd-PARD-WEB-PART/KimKwangil" style = "color : rgb(76, 161, 195)">웹파트 개발 기록</a> ( 2023.09.28 ~ 2023.11.11)</p></li>
+<li><p><b>PARD 2nd</b> - <a href = "https://github.com/2nd-PARD-WEB-PART/PARD-2th-Memorial" style = "color : rgb(76, 161, 195)">숏커톤 - Memorial</a> ( 2023.11.24 ~ 2023.11.25)</p></li>
+<li><p><b>PARD 2nd</b> - <a href = "https://github.com/Club-PARD/Bingo_WEB" style = "color : rgb(76, 161, 195)">롱커톤 - BINGO</a> ( 2023.12.12 ~ )</p></li>
+<li><p><b>PARD 3nd</b> - <a href = "https://github.com/Club-PARD/UJaCha_WEB" style = "color : rgb(76, 161, 195)">운영진 롱커톤 - TUNE</a> ( 2024.01.24 ~ 2024.03.06)</p></li>
 
 <br>
 
 <h4>🏆 Awards 🏆</h4>
-<li><p><b>2020 C Contest - <span><a href = "https://github.com/pangil5634/pangil5634/wiki/%5BAwards%5D-2020-C-Contest">장려상🥉</a></span></b></p></li>
-<li><p><b>2023 bizflow M - pre contest - <span><a href = "https://github.com/pangil5634/pangil5634/wiki/%5BAwards%5D-bizflow-M-%E2%80%90-pre-contest">우수상🥈</a></span></b></p></li>
-<li><p><b>2023 bizflow M contest - <span><a href = "https://private-user-images.githubusercontent.com/54162245/302922643-851d0268-ae1d-47e7-9905-349f86098e06.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyOTc0MDUsIm5iZiI6MTcwNzI5NzEwNSwicGF0aCI6Ii81NDE2MjI0NS8zMDI5MjI2NDMtODUxZDAyNjgtYWUxZC00N2U3LTk5MDUtMzQ5Zjg2MDk4ZTA2LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwN1QwOTExNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMDk3YTI2OGZlZjliOWI2ZmMzNmIzYWJlMjk3ODc2ZDU4MDAxNjBkOGZlMzhkMjk4YWI5ODQ1NTAyODMxZDExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.keupw5yJHIIF1rWDG0ePVz2ePTSNTOtjms58Lxj1g_M">우수상</a>🥈</span></b></p></li>
-<li><p><b>PARD 2nd 롱커톤 - <span><a href = "https://private-user-images.githubusercontent.com/54162245/302921160-c46836c4-e134-4203-b0fe-214d852c3ff4.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyOTcxNzksIm5iZiI6MTcwNzI5Njg3OSwicGF0aCI6Ii81NDE2MjI0NS8zMDI5MjExNjAtYzQ2ODM2YzQtZTEzNC00MjAzLWIwZmUtMjE0ZDg1MmMzZmY0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwN1QwOTA3NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01N2I0OWVhNmMxZDYyNTdiMGNiZmQyODYwOGZkMmM4NmEwMjc1ZjgwOWM2NzQ2NzdkZTFjNTRiM2RiZWMzMWFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.rgjfNmvuiaw74zHRGJBxB-RA-1Lv1BtlfvXumQz8nMg">대상🥇</a></span></b></p></li>
+<li><p><b>2020 C Contest - <span><a href = "https://github.com/pangil5634/pangil5634/wiki/%5BAwards%5D-2020-C-Contest" style = "color : rgb(76, 161, 195)">장려상🥉</a></span></b></p></li>
+<li><p><b>2023 bizflow M - pre contest - <span><a href = "https://github.com/pangil5634/pangil5634/wiki/%5BAwards%5D-bizflow-M-%E2%80%90-pre-contest" style = "color : rgb(76, 161, 195)">우수상🥈</a></span></b></p></li>
+<li><p><b>2023 bizflow M contest - <span><a href = "https://private-user-images.githubusercontent.com/54162245/302922643-851d0268-ae1d-47e7-9905-349f86098e06.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyOTc0MDUsIm5iZiI6MTcwNzI5NzEwNSwicGF0aCI6Ii81NDE2MjI0NS8zMDI5MjI2NDMtODUxZDAyNjgtYWUxZC00N2U3LTk5MDUtMzQ5Zjg2MDk4ZTA2LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwN1QwOTExNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMDk3YTI2OGZlZjliOWI2ZmMzNmIzYWJlMjk3ODc2ZDU4MDAxNjBkOGZlMzhkMjk4YWI5ODQ1NTAyODMxZDExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.keupw5yJHIIF1rWDG0ePVz2ePTSNTOtjms58Lxj1g_M" style = "color : rgb(76, 161, 195)">우수상</a>🥈</span></b></p></li>
+<li><p><b>PARD 2nd 롱커톤 - <span><a href = "https://private-user-images.githubusercontent.com/54162245/302921160-c46836c4-e134-4203-b0fe-214d852c3ff4.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyOTcxNzksIm5iZiI6MTcwNzI5Njg3OSwicGF0aCI6Ii81NDE2MjI0NS8zMDI5MjExNjAtYzQ2ODM2YzQtZTEzNC00MjAzLWIwZmUtMjE0ZDg1MmMzZmY0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwN1QwOTA3NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01N2I0OWVhNmMxZDYyNTdiMGNiZmQyODYwOGZkMmM4NmEwMjc1ZjgwOWM2NzQ2NzdkZTFjNTRiM2RiZWMzMWFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.rgjfNmvuiaw74zHRGJBxB-RA-1Lv1BtlfvXumQz8nMg" style = "color : rgb(76, 161, 195)">대상🥇</a></span></b></p></li>
 <br>
 
 <h4>🌐 Projects 🌐</h4>
 <ul>
-    <li><a href = "https://hancamsa.netlify.app">한캠사</a> - 한동대 캠퍼스 사이트</li>
+    <li><a href = "https://hancamsa.netlify.app" style = "color : rgb(76, 161, 195)">한캠사</a> - 한동대 캠퍼스 사이트</li>
     <li>버르장례식</li>
     <li>Bingo</li>
     <li>Tune</li>
-    <li>Essence Official Site</li>
+    <li><a href = "https://essenceworship.netlify.app"style = "color : rgb(76, 161, 195)">Essence Official Site</a></li>
 </ul>
 <br>
     
@@ -50,6 +50,7 @@
     <li>2023.08.28 2023-2 팀 PRS 리더 ⛪️</li>
     <li>2023.09.09 PARD 2기 웹파트 파디 👥</li>
     <li>2024.01.08 PARD 3기 웹파트 부파트장 🤵🏻‍♂️</li>
+    <li>2024.07.19 PARD 4기 웹파트 파트장 🤵🏻‍♂️</li>
 </ul>
 <br>
 
