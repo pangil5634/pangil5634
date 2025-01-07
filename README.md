@@ -58,10 +58,15 @@
 
 <br>
 <h3>Language Stats</h3>
+<h4>Web Skills</h4>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+
+<h4>Programming Skills</h4>
+
 ![C](https://img.shields.io/badge/-C-0054FF?style=for-the-badge&logo=C&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -73,6 +78,7 @@
 <h3>Framework / Library</h3>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-firebase-F5820D?style=for-the-badge&logo=firebase&logoColor=white)
