@@ -23,7 +23,7 @@
 <li><p><b>PARD 2nd</b> - <a href = "https://github.com/2nd-PARD-WEB-PART/PARD-2th-Memorial" style = "color : rgb(76, 161, 195)">숏커톤 - Memorial</a> ( 2023.11.24 ~ 2023.11.25)</p></li>
 <li><p><b>PARD 2nd</b> - <a href = "https://github.com/Club-PARD/Bingo_WEB" style = "color : rgb(76, 161, 195)">롱커톤 - BINGO</a> ( 2023.12.12 ~ )</p></li>
 <li><p><b>PARD 3nd</b> - <a href = "https://github.com/Club-PARD/UJaCha_WEB" style = "color : rgb(76, 161, 195)">운영진 롱커톤 - TUNE</a> ( 2024.01.24 ~ 2024.03.06)</p></li>
-<li><p><b>PARD 4th</b> - <a href = "https://github.com/Club-PARD/PARD_4th_GwangGi_FE" style = "color : rgb(76, 161, 195)">운영진 롱커톤 - BlBlidgeidge</a> ( 2024.07.29 ~ 2024.08.21)</p></li>
+<li><p><b>PARD 4th</b> - <a href = "https://github.com/Club-PARD/PARD_4th_GwangGi_FE" style = "color : rgb(76, 161, 195)">운영진 롱커톤 - Blidge</a> ( 2024.07.29 ~ 2024.08.21)</p></li>
 
 <br>
 
@@ -91,7 +91,7 @@
 ![zsh](https://img.shields.io/badge/-zsh-gray?style=for-the-badge&logo=zsh&logoColor=white)
 
 <br>
-<h3>Framework / Library</h3>
+<h4>Framework / Library</h4>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
