@@ -90,7 +90,6 @@
 ![Assemblyscript](https://img.shields.io/badge/-assemblyscript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![zsh](https://img.shields.io/badge/-zsh-gray?style=for-the-badge&logo=zsh&logoColor=white)
 
-<br>
 <h4>Framework / Library</h4>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
