@@ -8,7 +8,7 @@
 
 <div align="center">
   <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=pangil5634&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <br/
+  <br/>
   <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pangil5634&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   
   [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=oksk6681)](https://solved.ac/profile/oksk6681)
