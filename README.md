@@ -1,115 +1,107 @@
-<h2>Why is a day only 24 hours?</h2>
-<p>안녕하세요 웹 개발 관심이 많은 대학생 김광일이라고 합니다!</p>
+<!-- 👋 소개 메시지 (Typing 애니메이션) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=80ed99&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+a+frontend+developer+focused+on+enhancing+user+experience+through+UI%2FUX+design.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=80ed99&size=20&lines=Hello,+I+will+be+famous+developer!;I+really+like+programming~!;So+i+want+to+develop+everyday!!;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
-<br>
+---
 
-## ✨ About Me ✨
+## ✨ About Me
 
 <div align="center">
-  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=pangil5634&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <br/>
-  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pangil5634&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  
-  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=oksk6681)](https://solved.ac/profile/oksk6681)
-  <br>
-  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=pangil5634&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000" width="48%" />
+
+  <a href="https://solved.ac/profile/oksk6681" target="_blank">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oksk6681" alt="Solved.ac Profile" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangil5634&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" width="40%" />
+
 </div>
 
-## 👨‍👨‍👦‍👦 TEAM 👨‍👨‍👦‍👦
+---
 
-<li><p><b>CRA</b> - <a href = "https://cra16.github.io" style = "color : rgb(76, 161, 195)"> Computer Research Association</a> ( 2020.04.05 ~ )</p></li>
-<li><p><b>비타500</b> - <a href = "https://www.notion.so/500-ac808876526a4b4c97376b77aa3d11e1?pvs=4" style = "color : rgb(76, 161, 195)"> 2023 비즈플로우 Team </a> ( 2023.03.21 ~ 2023.08.18)</p></li>
-<li><p><b>PARD 2nd</b> - <a href = "https://github.com/2nd-PARD-WEB-PART/KimKwangil" style = "color : rgb(76, 161, 195)">웹파트 개발 기록</a> ( 2023.09.28 ~ 2023.11.11)</p></li>
-<li><p><b>PARD 2nd</b> - <a href = "https://github.com/2nd-PARD-WEB-PART/PARD-2th-Memorial" style = "color : rgb(76, 161, 195)">숏커톤 - Memorial</a> ( 2023.11.24 ~ 2023.11.25)</p></li>
-<li><p><b>PARD 2nd</b> - <a href = "https://github.com/Club-PARD/Bingo_WEB" style = "color : rgb(76, 161, 195)">롱커톤 - BINGO</a> ( 2023.12.12 ~ )</p></li>
-<li><p><b>PARD 3nd</b> - <a href = "https://github.com/Club-PARD/UJaCha_WEB" style = "color : rgb(76, 161, 195)">운영진 롱커톤 - TUNE</a> ( 2024.01.24 ~ 2024.03.06)</p></li>
-<li><p><b>PARD 4th</b> - <a href = "https://github.com/Club-PARD/PARD_4th_GwangGi_FE" style = "color : rgb(76, 161, 195)">운영진 롱커톤 - Blidge</a> ( 2024.07.29 ~ 2024.08.21)</p></li>
+## 👨‍👩‍👧‍👦 Team Experience
 
-<br>
+- **CRA** – [Computer Research Association](https://cra16.github.io) (2020.04 ~)
+- **비타500** – [2023 Bizflow Team](https://www.notion.so/500-ac808876526a4b4c97376b77aa3d11e1) (2023.03 ~ 08)
+- **PARD 2기**
+  - [개발기록](https://github.com/2nd-PARD-WEB-PART/KimKwangil)
+  - [숏커톤 - Memorial](https://github.com/2nd-PARD-WEB-PART/PARD-2th-Memorial)
+  - [롱커톤 - BINGO](https://github.com/Club-PARD/Bingo_WEB)
+- **PARD 3기**
+  - [운영진 롱커톤 - TUNE](https://github.com/Club-PARD/UJaCha_WEB)
+- **PARD 4기**
+  - [운영진 롱커톤 - Blidge](https://github.com/Club-PARD/PARD_4th_GwangGi_FE)
+- **인사이트 랩실**
+  - [캡스톤 프로젝트 - QRapo](https://github.com/Handong-TeamProject/Capston2_FE)
 
-## 🏆 Awards 🏆
+---
 
-<li><p><b>2020 C Contest - <span><a href = "https://github.com/pangil5634/pangil5634/wiki/%5BAwards%5D-2020-C-Contest" style = "color : rgb(76, 161, 195)">장려상🥉</a></span></b></p></li>
-<li><p><b>2023 bizflow M - pre contest - <span><a href = "https://github.com/pangil5634/pangil5634/wiki/%5BAwards%5D-bizflow-M-%E2%80%90-pre-contest" style = "color : rgb(76, 161, 195)">우수상🥈</a></span></b></p></li>
-<li><p><b>2023 bizflow M contest - <span><a href = "https://private-user-images.githubusercontent.com/54162245/302922643-851d0268-ae1d-47e7-9905-349f86098e06.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyOTc0MDUsIm5iZiI6MTcwNzI5NzEwNSwicGF0aCI6Ii81NDE2MjI0NS8zMDI5MjI2NDMtODUxZDAyNjgtYWUxZC00N2U3LTk5MDUtMzQ5Zjg2MDk4ZTA2LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwN1QwOTExNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMDk3YTI2OGZlZjliOWI2ZmMzNmIzYWJlMjk3ODc2ZDU4MDAxNjBkOGZlMzhkMjk4YWI5ODQ1NTAyODMxZDExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.keupw5yJHIIF1rWDG0ePVz2ePTSNTOtjms58Lxj1g_M" style = "color : rgb(76, 161, 195)">우수상</a>🥈</span></b></p></li>
-<li><p><b>PARD 2nd 롱커톤 - <span><a href = "https://private-user-images.githubusercontent.com/54162245/302921160-c46836c4-e134-4203-b0fe-214d852c3ff4.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyOTcxNzksIm5iZiI6MTcwNzI5Njg3OSwicGF0aCI6Ii81NDE2MjI0NS8zMDI5MjExNjAtYzQ2ODM2YzQtZTEzNC00MjAzLWIwZmUtMjE0ZDg1MmMzZmY0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwN1QwOTA3NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01N2I0OWVhNmMxZDYyNTdiMGNiZmQyODYwOGZkMmM4NmEwMjc1ZjgwOWM2NzQ2NzdkZTFjNTRiM2RiZWMzMWFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.rgjfNmvuiaw74zHRGJBxB-RA-1Lv1BtlfvXumQz8nMg" style = "color : rgb(76, 161, 195)">대상🥇</a></span></b></p></li>
-<br>
+## 🏆 Awards
 
-## 🌐 Projects 🌐
+- 🥉 [2020 C Contest - 장려상](https://github.com/pangil5634/pangil5634/wiki/%5BAwards%5D-2020-C-Contest)
+- 🥈 [2023 bizflow M - pre contest - 우수상](https://github.com/pangil5634/pangil5634/wiki/%5BAwards%5D-bizflow-M-%E2%80%90-pre-contest)
+- 🥈 [2023 bizflow M contest - 우수상](https://user-images.githubusercontent.com/54162245/302922643-851d0268-ae1d-47e7-9905-349f86098e06.jpeg)
+- 🥇 [PARD 2기 롱커톤 - 대상](https://user-images.githubusercontent.com/54162245/302921160-c46836c4-e134-4203-b0fe-214d852c3ff4.jpeg)
 
-<ul>
-    <li><a href = "https://hancamsa.netlify.app" style = "color : rgb(76, 161, 195)">한캠사</a> - 한동대 캠퍼스 사이트</li>
-    <li>버르장례식</li>
-    <li>Bingo</li>
-    <li>Tune</li>
-    <li><a href = "https://essenceworship.netlify.app"style = "color : rgb(76, 161, 195)">Essence Official Site</a></li>
-    <li>Blidge</li>
-</ul>
-<br>
-    
-<h4>🚗 Timeline 🚗</h4>
-<ul>
-    <li>2014.02.05 승지초등학교 졸업 🎓</li>
-    <li>2017.02.04 시흥능곡중학교 졸업 🎓</li>
-    <br>
-    <li>2020.02.03 경기자동차과학고등학교 졸업 🎓</li>
-    <li>2020.03.02 한동대학교 입학 🏫</li>
-    <li>2020.04.07 20-1 CRA 신입 👥</li>
-    <li>2020.04.03 2020 GLS 부대표 당선 🤵🏻‍♂️</li>
-    <li>2020.01.24 2021 HanST 기획운영팀원 👥</li>
-    <br>
-    <li>2021.04.27 군입대 🫡</li>
-    <br>
-    <li>2022.10.27 병장 만기 전역 🪖</li>
-    <br>
-    <li>2023.02.27 군복학 🏫</li>
-    <li>2023.08.28 2023-2 팀 PRS 리더 ⛪️</li>
-    <li>2023.09.09 PARD 2기 웹파트 파디 👥</li>
-    <li>2024.01.08 PARD 3기 웹파트 부파트장 🤵🏻‍♂️</li>
-    <li>2024.07.19 PARD 4기 웹파트 파트장 🤵🏻‍♂️</li>
-</ul>
-<br>
+---
 
-<br>
+## 🌐 Projects
 
-## 💻 Language Stats 💻
+| 이름 | 설명 |
+|------|------|
+| [한캠사](https://hancamsa.netlify.app) | 한동대 캠퍼스 종합 정보 사이트 |
+| 버르장례식 | 개인 실험용 미공개 프로젝트 |
+| [Bingo (Firebase)](https://officialbingo-9b22a.firebaseapp.com) | 팀의 발전과 성장을 위한 회고 아카이빙 서비스 |
+| Tune | 청소년 조헌병 진단 사이트 |
+| [Essence Site (Netlify)](https://essenceworship.netlify.app) | 시흥시 청소년 기독교 동아리 |
+| [Blidge](https://gwanggi-fe.web.app) | 헌혈 연결을 돕는 라포 서비스 |
+| [QRapo](https://qrapo.com) | 빠르게 라포 형성과 관계 발전을 도와주는 서비스 |
 
-<h4>Web Skills</h4>
+---
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=white)
+## 🕓 Timeline
+
+- **2020.03** 한동대학교 입학 🎓  
+- **2020.04** CRA 활동 시작, GLS 부대표 선출  
+- **2021.04 ~ 2022.10** 군 복무 🪖  
+- **2023.02** 복학 후 팀 리더 경험 (PRS 등)  
+- **2023.09 ~ 2024.01** PARD 웹파트 2기
+- **2024.01 ~ 2025.01** PARD 웹파트 3, 4기 파트장
+  
+---
+
+## 💻 Tech Stack
+
+### 🧑‍💻 Frontend
+
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 
-<h4>Programming Skills</h4>
+### ☕ Backend & Infra
 
-![C](https://img.shields.io/badge/-C-0054FF?style=for-the-badge&logo=C&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-FF9900?style=for-the-badge&logo=openjdk&logoColor=white)
-![Assemblyscript](https://img.shields.io/badge/-assemblyscript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![zsh](https://img.shields.io/badge/-zsh-gray?style=for-the-badge&logo=zsh&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Firebase](https://img.shields.io/badge/-firebase-F5820D?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=postgresql)
 
-<h4>Framework / Library</h4>
+### 🧠 Programming
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![Firebase](https://img.shields.io/badge/-firebase-F5820D?style=for-the-badge&logo=firebase&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FF9900?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/-C-0054FF?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
+![AssemblyScript](https://img.shields.io/badge/-AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript)
 
-<!-- <br>
-<h3>Github Stats</h3>
+### ⚙️ Dev Env & OS
 
-![pangil5634's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangil5634&show_icons=true&theme=radical)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux)
+![zsh](https://img.shields.io/badge/-zsh-gray?style=for-the-badge&logo=zsh)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi)
 
-<br>
-<h3>Using Language</h3>
-
-![pabgil5634's Using Language](https://github-readme-stats.vercel.app/api/top-langs/?username=pangil5634&layout=compact&theme=tokyonight)
-
-<br>
-<h3>Solved.ac Profile</h3>
-
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oksk6681) -->
+---
