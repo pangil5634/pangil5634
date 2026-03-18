@@ -30,6 +30,11 @@
 | **Tune**                                                         | 헬스케어 (B2C)               | 청소년 대상 조현병 조기 진단 테스트 제공 및 결과 시각화 웹서비스            |
 | **[Bingo](https://officialbingo-9b22a.firebaseapp.com)**         | 생산성 / 에듀테크 (B2B SaaS) | 팀 프로젝트 회고를 기록하고 결과를 구조화하여 아카이빙하는 회고 관리 서비스 |
 | **[한캠사](https://hancamsa.netlify.app)**                       | 정보 제공 / 유틸리티 (B2C)   | 한동대학교 캠퍼스 생활에 필요한 정보를 한 곳에 모은 종합 정보 웹사이트      |
+| **[디지털 윷놀이 말판](https://digital-yutnori-board.vercel.app/)** | 게임 / 인터랙티브 (B2C) | 전통 윷놀이를 디지털 환경에서 즐길 수 있도록 구현한 웹 기반 인터랙티브 보드 게임 서비스 |
+| **[팡일 개발 블로그](https://pangil5634.github.io/)** | 콘텐츠 / 포트폴리오 | 프론트엔드 개발 경험과 학습 내용을 기록하고 공유하는 모노레포 데모 프로젝트 |
+| **[Angular 포트폴리오](https://pangil-portfolio-angular.vercel.app/)** | 콘텐츠 / 포트폴리오 | Angular 기반으로 제작한 프론트엔드 개발자의 프로젝트 및 기술 역량을 소개하는 포트폴리오 사이트 |
+| **[크리스마스 스타일 테스트](https://pangil-christmas-card.netlify.app/)** | 유틸리티 / 콘텐츠 생성 (B2C) | 간단한 테스트를 통해 나만의 크리스마스 스타일을 알아보는 웹 서비스 |
+| **[AWS Problems](https://pangil-games.netlify.app/aws)** | 콘텐츠 / 인터랙티브 | '클라우드 컴퓨팅' 과목의 문제들을 exercise로 제공하는 웹 사이트 |
 
 <br>
 <br>
