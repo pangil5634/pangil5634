@@ -41,6 +41,8 @@
 <br>
 
 ## 🧑🏻‍💻 Experience
+### 🏢 Company
+- **[Merlotlab](https://www.merlotlab.com/) - Researcher (FE Web/App)** <i>2026.04 ~ 재직중</i>
 
 ### 🎓 Education
 - **한동대학교 전산전자공학부** <i>2020.02 – 2026.02</i>
