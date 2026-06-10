@@ -1,16 +1,98 @@
-## 💻 Tech Stack
+```js
+// Hello, Introduce me
 
-| Category            | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**       | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)                                                                                                                                                                                                                                                             |
-| **Frontend**        | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) |
-| **Backend**         | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot) ![Firebase](https://img.shields.io/badge/Firebase-F5820D?style=for-the-badge&logo=firebase) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)                                                                                                                                                                                                                                                                                         |
-| **Style**           | ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Infra**           | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **Testing**         | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **Cross Platform**  | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Collaboration**   | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)                                                                                                                                                                                                                                                                                                         |
-| **Dev Environment** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![zsh](https://img.shields.io/badge/zsh-gray?style=for-the-badge&logo=zsh)                                                                                                                                                                                                                                                                                                                                                                                                 |
+const user = {
+  name: "Kwangil Kim",
+  role: "Frontend Developer",
+  currently: "Researcher @ Merlotlab",
+  interestedIn: [
+    "Frontend Architecture",
+    "DX, AX, UX",
+    "Open Source",
+    "AI Agent",
+  ],
+  message() {
+    return "Products that people actually use.";
+  },
+};
+
+console.log(user.message());
+```
+
+## 💻 Tech Stack
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>FE</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>BE & DB</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Styling</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Infra</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Testing</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Collaboration</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Environment</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/zsh-000000?style=flat&logo=gnu-bash&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+
 
 
 <br>
@@ -53,3 +135,10 @@
 - **PARD (IT 협업 동아리)** <i>2023.09 – 2025.01</i>
 - **CRA (한동대학교 전산동아리)** <i>2020.03 – 2026.02</i>
 - **한동대학교 글로벌리더십학부 학생회 부대표** <i>2020.04 – 2021.03</i>
+
+<br>
+<br>
+<br>
+
+## 🛠️ Open Source Contributions
+- ko.react.dev - Documentation cleanup and typo fixes ([#1526](https://github.com/reactjs/ko.react.dev/pull/1526))
