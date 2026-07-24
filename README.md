@@ -142,3 +142,4 @@ console.log(user.message());
 
 ## 🛠️ Open Source Contributions
 - ko.react.dev - Documentation cleanup and typo fixes ([#1526](https://github.com/reactjs/ko.react.dev/pull/1526))
+- PokeTokenBar - Fix month-boundary usage undercount in enrichment scans ([#112](https://github.com/chattymin/PokeTokenBar/pull/112))
