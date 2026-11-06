@@ -20,6 +20,7 @@ console.log(user.message());
 ```
 
 ## 💻 Tech Stack
+
 <table>
   <tr>
     <td><strong>Languages</strong></td>
@@ -92,9 +93,6 @@ console.log(user.message());
   </tr>
 </table>
 
-
-
-
 <br>
 <br>
 <br>
@@ -102,52 +100,56 @@ console.log(user.message());
 ## 🌐 Projects
 
 ### 🚀 Active Projects
-| 이름 | 도메인 / 유형 | 설명 |
-| --- | --- | --- |
-| **[개인 블로그](https://kwangilkim.com)** | 개발 / 기술 콘텐츠 (개인 웹) | 프론트엔드 개발 지식과 프로젝트 경험, 개발자로서의 성장 과정을 기록하고 공유하는 개인 블로그 | 
-| **[checky](https://checky.today)** | 생산성 / 유틸리티 (B2C SaaS) | 습관과 루틴을 기록하여 사용자의 행동 변화를 돕는 자기 관리 웹서비스 |
-| **[조각](https://jogaks.vercel.app)** | 조직 관리 / 게이미피케이션 (B2B SaaS) | 조직을 그룹으로 나눠 미션을 인증하고 조각 판을 채워가며 목표 활동을 게임처럼 독려하는 웹서비스 |
-| **[re-log](https://relog.shop)** | 생산성 / 콘텐츠 (B2C SaaS) | 회고와 기록을 통해 사용자가 경험과 감정을 정리하도록 돕는 웹서비스 |
-| **[만약에크보](https://if-kbo.vercel.app/)** | 스포츠 / 시뮬레이션 (B2C Web) | KBO 리그를 다양한 가정과 시나리오로 분석하며 팬들이 색다른 관점에서 야구를 즐길 수 있는 웹서비스 | 
-| **[Essence](https://essence2016.netlify.app)** | 콘텐츠 / 정보 제공 | 시흥시 다음세대 선교단체를 위한 공식 정보 제공 및 콘텐츠 관리 웹사이트 |
-| **[한동 총학생회](https://stu.handong.edu)** | 학생자치 / 커뮤니티 (공공·기관 웹) | 한동대학교 총학생회의 공지·행사·복지 정보를 학생들에게 전달하고 소통하는 공식 웹서비스 |
-| **[총학생회 관리자](https://stu-ad.web.app)** | 학생자치 / 운영 관리 (Admin) | 총학생회 임원이 공지·행사·상점·데이터 수집 등 조직 운영을 관리하는 백오피스 |
+
+| 이름                                           | 도메인 / 유형                         | 설명                                                                                             |
+| ---------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **[개인 블로그](https://kwangilkim.com)**      | 개발 / 기술 콘텐츠 (개인 웹)          | 프론트엔드 개발 지식과 프로젝트 경험, 개발자로서의 성장 과정을 기록하고 공유하는 개인 블로그     |
+| **[checky](https://checky.today)**             | 생산성 / 유틸리티 (B2C SaaS)          | 습관과 루틴을 기록하여 사용자의 행동 변화를 돕는 자기 관리 웹서비스                              |
+| **[조각](https://jogaks.vercel.app)**          | 조직 관리 / 게이미피케이션 (B2B SaaS) | 조직을 그룹으로 나눠 미션을 인증하고 조각 판을 채워가며 목표 활동을 게임처럼 독려하는 웹서비스   |
+| **[re-log](https://relog.shop)**               | 생산성 / 콘텐츠 (B2C SaaS)            | 회고와 기록을 통해 사용자가 경험과 감정을 정리하도록 돕는 웹서비스                               |
+| **[만약에크보](https://if-kbo.vercel.app/)**   | 스포츠 / 시뮬레이션 (B2C Web)         | KBO 리그를 다양한 가정과 시나리오로 분석하며 팬들이 색다른 관점에서 야구를 즐길 수 있는 웹서비스 |
+| **[Essence](https://essence2016.netlify.app)** | 콘텐츠 / 정보 제공                    | 시흥시 다음세대 선교단체를 위한 공식 정보 제공 및 콘텐츠 관리 웹사이트                           |
+| **[한동 총학생회](https://stu.handong.edu)**   | 학생자치 / 커뮤니티 (공공·기관 웹)    | 한동대학교 총학생회의 공지·행사·복지 정보를 학생들에게 전달하고 소통하는 공식 웹서비스           |
+| **[총학생회 관리자](https://stu-ad.web.app)**  | 학생자치 / 운영 관리 (Admin)          | 총학생회 임원이 공지·행사·상점·데이터 수집 등 조직 운영을 관리하는 백오피스                      |
 
 ### 📦 Archived Projects
 
-| 이름 | 도메인 / 유형 | 설명 |
-| --- | --- | --- |
-| **[PARD 관리자 페이지](https://pard-app-project.web.app/Login)** | 생산성 / HR 테크 (B2B SaaS) | 동아리 운영진을 위한 구성원·일정·출결·점수 관리 내부 관리자 웹서비스 |
-| **[팡일 개발 블로그](https://pangil5634.github.io/)** | 콘텐츠 / 포트폴리오 | 프론트엔드 개발 경험과 학습 내용을 기록하고 공유하는 모노레포 데모 프로젝트 |
-| **[Angular 포트폴리오](https://pangil-portfolio-angular.vercel.app/)** | 콘텐츠 / 포트폴리오 | Angular 기반으로 제작한 프론트엔드 개발자의 프로젝트 및 기술 역량을 소개하는 포트폴리오 사이트 |
-| **[디지털 윷놀이 말판](https://digital-yutnori-board.vercel.app/)** | 게임 / 인터랙티브 (B2C) | 전통 윷놀이를 디지털 환경에서 즐길 수 있도록 구현한 웹 기반 인터랙티브 보드 게임 서비스 |
-| **[크리스마스 스타일 테스트](https://pangil-christmas-card.netlify.app/)** | 유틸리티 / 콘텐츠 생성 (B2C) | 간단한 테스트를 통해 나만의 크리스마스 스타일을 알아보는 웹 서비스 |
-| **[한캠사](https://hancamsa.netlify.app)** | 정보 제공 / 유틸리티 (B2C) | 한동대학교 캠퍼스 생활에 필요한 정보를 한 곳에 모은 종합 정보 웹사이트 |
-| **[AWS Problems](https://pangil-games.netlify.app/aws)** | 콘텐츠 / 인터랙티브 | '클라우드 컴퓨팅' 과목의 문제들을 exercise로 제공하는 웹 사이트 |
+| 이름                                                                       | 도메인 / 유형                | 설명                                                                                           |
+| -------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| **[PARD 관리자 페이지](https://pard-app-project.web.app/Login)**           | 생산성 / HR 테크 (B2B SaaS)  | 동아리 운영진을 위한 구성원·일정·출결·점수 관리 내부 관리자 웹서비스                           |
+| **[팡일 개발 블로그](https://pangil5634.github.io/)**                      | 콘텐츠 / 포트폴리오          | 프론트엔드 개발 경험과 학습 내용을 기록하고 공유하는 모노레포 데모 프로젝트                    |
+| **[Angular 포트폴리오](https://pangil-portfolio-angular.vercel.app/)**     | 콘텐츠 / 포트폴리오          | Angular 기반으로 제작한 프론트엔드 개발자의 프로젝트 및 기술 역량을 소개하는 포트폴리오 사이트 |
+| **[디지털 윷놀이 말판](https://digital-yutnori-board.vercel.app/)**        | 게임 / 인터랙티브 (B2C)      | 전통 윷놀이를 디지털 환경에서 즐길 수 있도록 구현한 웹 기반 인터랙티브 보드 게임 서비스        |
+| **[크리스마스 스타일 테스트](https://pangil-christmas-card.netlify.app/)** | 유틸리티 / 콘텐츠 생성 (B2C) | 간단한 테스트를 통해 나만의 크리스마스 스타일을 알아보는 웹 서비스                             |
+| **[한캠사](https://hancamsa.netlify.app)**                                 | 정보 제공 / 유틸리티 (B2C)   | 한동대학교 캠퍼스 생활에 필요한 정보를 한 곳에 모은 종합 정보 웹사이트                         |
+| **[AWS Problems](https://pangil-games.netlify.app/aws)**                   | 콘텐츠 / 인터랙티브          | '클라우드 컴퓨팅' 과목의 문제들을 exercise로 제공하는 웹 사이트                                |
 
 ### 🏁 Completed Projects
 
-| 이름 | 도메인 / 유형 | 설명 |
-| --- | --- | --- |
-| **[QRapo](https://qrapo.com)** | 커뮤니티 / SNS (B2B·B2C) | 단계적 콘텐츠를 통해 사용자 간 라포 형성과 관계 발전을 돕는 웹서비스 |
-| **[Blidge](https://gwanggi-fe.web.app)** | 헬스케어 / 커뮤니티 (B2C) | 헌혈 적합 여부를 자가진단하고 헌혈 참여를 독려하는 커뮤니티형 웹서비스 |
-| **Tune** | 헬스케어 (B2C) | 청소년 대상 조현병 조기 진단 테스트 제공 및 결과 시각화 웹서비스 |
+| 이름                                                     | 도메인 / 유형                | 설명                                                                        |
+| -------------------------------------------------------- | ---------------------------- | --------------------------------------------------------------------------- |
+| **[QRapo](https://qrapo.com)**                           | 커뮤니티 / SNS (B2B·B2C)     | 단계적 콘텐츠를 통해 사용자 간 라포 형성과 관계 발전을 돕는 웹서비스        |
+| **[Blidge](https://gwanggi-fe.web.app)**                 | 헬스케어 / 커뮤니티 (B2C)    | 헌혈 적합 여부를 자가진단하고 헌혈 참여를 독려하는 커뮤니티형 웹서비스      |
+| **Tune**                                                 | 헬스케어 (B2C)               | 청소년 대상 조현병 조기 진단 테스트 제공 및 결과 시각화 웹서비스            |
 | **[Bingo](https://officialbingo-9b22a.firebaseapp.com)** | 생산성 / 에듀테크 (B2B SaaS) | 팀 프로젝트 회고를 기록하고 결과를 구조화하여 아카이빙하는 회고 관리 서비스 |
-
 
 <br>
 <br>
 <br>
 
 ## 🧑🏻‍💻 Experience
+
 ### 🏢 Company
+
 - **[Merlotlab](https://www.merlotlab.com/) - Researcher (FE Web/App)** <i>2026.04 ~ 현재</i>
 
 ### 🎓 Education
+
 - **한동대학교 전산전자공학부** <i>2020.02 – 2026.02</i>
 - **경기자동차과학고등학교 자동차IT학과** <i>2017.03 – 2020.02</i>
 
 ### 🧩 Activities & Clubs
+
 - **인사이트랩 (한동대학교 전산전자공학부 연구실)** <i>2024.06 ~ 2025.06</i>
 - **PARD (IT 협업 동아리)** <i>2023.09 – 2025.01</i>
 - **CRA (한동대학교 전산동아리)** <i>2020.03 – 2026.02</i>
@@ -162,12 +164,11 @@ console.log(user.message());
 - ko.react.dev - Documentation cleanup and typo fixes ([#1526](https://github.com/reactjs/ko.react.dev/pull/1526))
 - PokeTokenBar - Fix month-boundary usage undercount in enrichment scans ([#112](https://github.com/chattymin/PokeTokenBar/pull/112))
 
-
 <br>
 <br>
 <br>
 
 ## 📫 Contact
 
-- **Blog:** [tistory](https://pangil-log.tistory.com)
+- **Blog:** [개인 블로그](https://kwangilkim.com)
 - **Email:** oksk6689@gmail.com
